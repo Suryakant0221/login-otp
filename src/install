@@ -1,0 +1,43 @@
+
+npm install firebase
+
+react-icons/bs and react-icons/cg: These errors suggest that the react-icons package is missing or not properly installed. You can install it using npm or yarn:
+
+bashCopy code
+npm install react-icons --save
+# or
+yarn add react-icons
+
+
+
+
+otp-input-react: This error indicates that the otp-input-react package is missing. You can install it using npm or yarn:
+
+bashCopy code
+npm install otp-input-react --save
+# or
+yarn add otp-input-react
+
+
+
+
+react-phone-input-2 and react-phone-input-2/lib/style.css: These errors suggest that the react-phone-input-2 package and its associated CSS file are missing. Install them using npm or yarn:
+
+bashCopy code
+npm install react-phone-input-2 --save
+npm install react-phone-input-2/lib/style.css --save
+# or
+yarn add react-phone-input-2
+yarn add react-phone-input-2/lib/style.css
+
+
+
+
+react-hot-toast: This error indicates that the react-hot-toast package is missing. You can install it using npm or yarn:
+
+bashCopy code
+npm install react-hot-toast --save
+# or
+yarn add react-hot-toast
+
+
